@@ -1,8 +1,8 @@
 ## TGS Timetable App
 
-Disclaimer: THis app is only useable in the country of New Zealand.
+Disclaimer: This app is only downloadable in the country New Zealand of New Zealand.
 
 The TGS Timetable app is a great companion.
 
-If you have any question feel free to ask.
+If you have any questions feel free to ask.
 
